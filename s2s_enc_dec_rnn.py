@@ -12,7 +12,7 @@ Original file is located at
 
 # Getting Started
 
-We are going to implement a sequence-to-sequence model, specifically an encoder-decoder with attention, using recurrent neural networks.
+We are going to implement a sequence-to-sequence model, specifically an encoder-decoder, using recurrent neural networks.
 
 We are using the [E2E Challenge](http://www.macs.hw.ac.uk/InteractionLab/E2E/) dataset for generating restuarant descriptions from *meaning representations*.
 
