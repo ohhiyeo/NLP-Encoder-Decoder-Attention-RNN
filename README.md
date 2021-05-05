@@ -1,4 +1,4 @@
-# NLP-Encoder-Decoder-Attention-RNN  
+# NLP-Encoder-Decoder-RNN  
 
 This code implement a sequence-to-sequence model, specifically an encoder-decoder with attention, using recurrent neural networks.  
 
